@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "saleChannel": "YOUR_SALES_DISCORD_CHANNEL",
+  "listingChannel": "YOUR_LISTING_DISCORD_CHANNEL",
+  "slug": "YOUR_OPENSEA_COLLECTION_SLUG"
+}
